@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://files.catbox.moe/eehxb4.jpg" alt="ShrutiMusicBot Logo" width="500px">
+<img src="https://files.catbox.moe/eehxb4.jpg" alt="PriiMusicBot Logo" width="500px">
 </p>
 
 <h1 align="center">🎵 Prii Music Bot 🎵</h1>
@@ -165,7 +165,7 @@ screen -r shrutibot
 
 ## 🔄 How to Generate Session String
 
-Use our Session Generator Bot: [@ShrutiSessionBot](https://t.me/AstronixHub)
+Use our Session Generator Bot: [@ChhotiPriiBot](https://t.me/NebulixNetwork) 
 
 1. Start the bot
 2. Send phone number with country code
