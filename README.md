@@ -2,7 +2,7 @@
 <img src="https://files.catbox.moe/eehxb4.jpg" alt="ShrutiMusicBot Logo" width="500px">
 </p>
 
-<h1 align="center">🎵 Shruti Music Bot 🎵</h1>
+<h1 align="center">🎵 Prii Music Bot 🎵</h1>
 
 <p align="center">
   <b>A Powerful Telegram Music Bot to Play Songs in Voice Chats</b>
@@ -199,5 +199,5 @@ For any questions or help, join our [Support Group](https://t.me/NebulixNetwork)
 ---
 
 <p align="center">
-<b>🎵 Enjoy Streaming Music with Shruti Bot! 🎵</b>
+<b>🎵 Enjoy Streaming Music with Prii Bot! 🎵</b>
 </p>
